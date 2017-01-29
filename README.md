@@ -1,3 +1,3 @@
-# machine-learning-ex1
+# machine-learning-ex
 
-machine-learning Programming Assignment: Linear Regression
+machine-learning Programming Assignment
